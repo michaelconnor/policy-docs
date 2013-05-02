@@ -1,0 +1,218 @@
+Rhizome ArtBase Artist Agreement Policy       
+
+This agreement sets out the terms and conditions by which you agree to
+allow us to include or link to ["TITLE OF ARTWORK"] in the Rhizome
+ArtBase. This agreement also sets out the terms and conditions by
+which Rhizome agrees to accept your artwork into the ArtBase.
+
+I. General Information
+
+The Rhizome ArtBase is an online archive of new media art that is
+maintained by Rhizome at the New Museum a non-profit arts organization
+in New York City. The ArtBase provides public access and exposure to a
+comprehensive collection of new media art, serves as a platform for
+artists to present their work and preserves key artworks for the
+future.
+
+The ArtBase includes two types of art objects: Linked Objects and
+Archival Copies. Both, Linked Objects and Archival Copies, include
+information about an artwork ("metadata"), such as the artist's name,
+the date the project was created, the project's title, original URL,
+keywords, technologies used, an artist's statement and a thumbnail
+image. Artists who submit artworks as Linked Objects or Archival
+Copies provide us with such metadata, which we may then edit to ensure
+completeness, consistency and accuracy.
+
+Artists who submit artworks as Linked Objects provide us with an
+Original URL link that leads to the artwork located on another server
+as well as metadata about the artwork.
+
+Archival Copies include a copy of the artwork that is stored on
+Rhizome's servers. Users can access the artwork by clicking on an
+Original URL link that leads to another server or a unique URL
+assigned to the artwork by Rhizome and located on the Rhizome server.
+The Archival Copy serves as a snapshot of the work as it existed when
+it was archived as well as a backup copy in the event the original
+version becomes inaccessible. If the work changes after it is
+archived, the Archival Copy may differ from the version of the artwork
+maintained by the artist.
+
+II. Your Rights
+
+Even though you submit your artwork to Rhizome for inclusion in the
+ArtBase, and execute this agreement, you retain ownership of copyright
+and all other rights in your artwork or as defined by the Creative
+Commons license you assigned.
+
+Inclusion of your artwork in the ArtBase does not preclude you from
+exhibiting your artwork elsewhere, online or offline. Nor does
+inclusion of your artwork in the ArtBase preclude you from selling or
+otherwise seeking financial compensation for your artwork in another
+context. Both parties agree to not seek nor be entitled to any
+compensation from the other by reason of Rhizome including your
+artwork in the ArtBase.
+
+You may use the fact that your artwork has been included in the
+ArtBase on your resume or curriculum vitae, or to promote your artwork
+in other ways. You may also link to the ArtBase or directly to your
+artwork in the ArtBase.
+
+If you ask us to remove your artwork and the metadata about your
+artwork from the ArtBase, we will endeavor to do so within 60 days of
+receipt of your request. Requests may be sent via email to
+artbase@rhizome.org. Once your artwork is removed from the ArtBase,
+you will be notified by email from Rhizome. Note: removing your
+artwork from the ArtBase means removing it and the metadata about your
+artwork from the ArtBase web site. We may not be able to remove your
+artwork or the metadata about your artwork from backup copies of the
+web site in archival storage.
+
+If you decide that you want us to include your Linked Object as an
+Archival Copy, you may request that we do so by sending an email to
+artbase@rhizome.org. Due to limited resources, we may not be able to
+comply with all requests.
+
+If your artwork changes and you want to update the Archival Copy in
+the ArtBase, you may request an update by sending an email to
+artbase@rhizome.org. Due to limited resources, we may not be able to
+comply with all update requests.
+
+In the event your artwork is removed from the ArtBase, you reserve the
+right to resubmit your artwork to the ArtBase at any time.
+
+III. Our Rights
+
+By submitting your art work to the ArtBase as a Linked Object, you
+grant Rhizome the right to link to your artwork and to use your name,
+the title of your artwork, and all other metadata about your artwork
+that you submit to us, including the thumbnail image of or taken from
+your artwork, both on the Rhizome web site and elsewhere for
+promotional and fundraising purposes.
+
+By submitting your art work to the ArtBase as an Archival Copy, you
+grant Rhizome a non-exclusive, worldwide, royalty-free, fully paid-up
+license to store copies of your artwork on our servers, to include
+your artwork in the ArtBase and to perform, display or otherwise make
+available your artwork to users online. You also grant Rhizome the
+right to use your name, the title of your artwork, and all other
+metadata about your artwork that you submit to us, including the
+thumbnail image of or taken from your artwork, both on the Rhizome web
+site and elsewhere for promotional and fundraising purposes. You also
+grant Rhizome the right to make changes to your artwork for purposes
+of preserving the artwork and for access by users, as specified by you
+in the Artist Questionnaire.
+
+You grant Rhizome the rights to create a thumbnail image of or from
+your artwork if you either do not provide one or if the thumbnail
+image you provide does not meet our standards, and to include such
+image in the ArtBase.
+
+We reserve the right to make changes to the metadata you provide about
+your artwork for the purposes of completeness, consistency and
+accuracy.
+
+Rhizome reserves the right to remove artworks from the ArtBase at any
+time. Reasons for removal include, but are not limited to, copyright
+infringement, failure to keep artwork live, the artwork is potentially
+harmful or the artwork is defamatory or derogatory. If your artwork is
+removed from the ArtBase, you will be notified by Rhizome by email
+sent to the address you provide.
+
+IV. Your Obligations
+
+You agree to keep the contact information in your member record on the
+Rhizome web site up-to-date and accurate.
+
+You agree to actively maintain your artwork to ensure that it is live
+and accessible to the ArtBase.
+
+You agree to notify us of any changes to the URL where your artwork is
+available so that we can keep the Original URL field up-to-date. Such
+notice shall be sent via email to artbase@rhizome.org.
+
+By submitting your artwork as an Archival Copy, you agree to upload
+your artwork to our server and to test its functionality.
+
+By uploading content to ArtBase, you understand and agree to allow
+Rhizome to distribute images, text and other information to third part
+affiliates for non-commercial purposes.
+
+V. Our Obligations
+
+We agree to use reasonable efforts to ensure that the metadata that
+you provide about your artwork remains secure and accessible for the
+future by providing high web server availability and redundant
+backups. We also intend, but are not obligated, to provide access to
+obsolete software.
+
+We agree to use reasonable efforts to ensure that the Archival Copy of
+your artwork remains secure and accessible for the future by providing
+high web server availability and redundant backups. We also intend,
+but are not obligated, to provide access to obsolete software and to
+implement measures to preserve your artwork, such as documentation,
+migration, emulation and reinterpretation, as indicated in the Artist
+Questionnaire. We agree to notify you of any changes to your artwork
+that are permitted by you, as specified in the Artist Questionnaire.
+
+If Rhizome is no longer able to maintain the ArtBase, we will endeavor
+to find a trusted third party to take on and maintain the ArtBase. At
+that or any other time you may ask to remove the metadata about your
+artwork from the ArtBase.
+
+We agree to notify you if your artwork is removed from the ArtBase in
+accordance with Rhizome's removal policy (please refer to the ArtBase
+Collection Management Policy for more information). Rhizome assumes no
+responsibility to search for the artist's contact information in the
+event that they no longer maintain the email address on record.
+
+VI. Representations; Disclaimers; Limitation of Liability
+
+You represent that your artwork, the thumbnail image and the other
+metadata that you provide to us do not infringe the intellectual
+property rights of any other person, that you have the rights to
+license your artwork to Rhizome and to authorize Rhizome to include
+metadata in the ArtBase and that you are authorized to enter into this
+agreement.
+
+We represent that we are authorized to enter into this agreement, and
+we disclaim all other representations and warranties, express or
+implied.
+
+Neither Rhizome nor any of its officers, directors, employees, agents,
+representatives, information providers or licensors ("Affiliates")
+represent or warrant that the ArtBase will be available or will be
+uninterrupted or error free, or that access to the ArtBase will be
+secure, or that information contained in the ArtBase will be accurate.
+
+In no event will Rhizome, or any of its Affiliates, be liable to you
+for any direct or other damages arising out of this agreement,
+including, but not limited to, including or linking to your artwork in
+the ArtBase.
+
+VII. Indemnification
+
+You agree to defend, indemnify and hold harmless Rhizome at the New
+Museum and its Affiliates from and against all third-party claims and
+expenses (including attorneys' fees) arising out of our including
+metadata about your artwork in the ArtBase, including, but not limited
+to, any breach of any of your representations.
+
+We agree to defend, indemnify and hold you harmless against all
+third-party claims and expenses (including attorneys' fees) arising
+out of the ArtBase (other than claims and expenses arising out of any
+breach of your representations), including, but not limited to, any
+breach of any of our representations.
+
+VIII. Survival
+
+Sections VII and IX and this Section VIII shall survive termination of
+this Agreement.
+
+IX. Miscellaneous
+
+This agreement constitutes the entire agreement between Rhizome and
+you and may only be amended in writing by mutual agreement. No waiver
+by either party of any breach or default hereunder shall be deemed to
+be a waiver of any preceding or subsequent breach or default. This
+agreement shall be construed in accordance with the laws of the State
+of New York, without regard to its conflict of laws rules.
