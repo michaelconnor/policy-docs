@@ -1,0 +1,102 @@
+Rhizome ArtBase Collection Management Policy
+
+
+MISSION
+The Rhizome ArtBase is an artist-driven, web-based archive of new media and digital art. It provides public access to a wide-ranging collection of significant works and serves as a platform for artists to share their work within a relevant context. Its purpose is pedagogical: to preserve, promote, and educate around this emergent field of practice. The ArtBase is free to browse. Rhizome Members have greater access and interaction with the works.
+
+
+SCOPE
+The ArtBase collects new media art objects that significantly utilize emerging technologies. The ArtBase encompasses a vast range of projects by artists all over the world who employ materials such as software, code, websites, moving images, games and browsers to aesthetic and critical ends. The ArtBase collection is primarily focused on archiving Rhizome commissioned artworks and other prominent and/or historically significant works at the discretion of Rhizome’s curatorial staff.
+
+The web-based nature of the ArtBase requires that all artworks in the collection must be accessible via a live Universal Resource Locator (URL) on the Internet. While all artworks are automatically published to the artist’s portfolio, only artworks that meet the predetermined ArtBase Selection Criteria will be accepted into the ArtBase archive. Artworks that do not meet the Selection Criteria will only be available in the artist’s portfolio.
+
+Rhizome adopts the term “art object” to describe the artwork and the metadata associated with the artwork. The ArtBase collection consists of two types of art objects -- Linked Objects and Archival Copies. All art objects in the ArtBase are user and member submitted links to artworks stored and hosted on another server or archival copies of artworks stored and hosted on the Rhizome server.
+
+Linked Objects are art objects accepted to the ArtBase and are accessible on a non-Rhizome server via a URL. 
+Archival Copies are art objects that include an archival copy of the artwork stored on the Rhizome server. This ‘clone’ serves as a backup in the event the original is inaccessible or obsolete. The artist is required to complete the Artist Questionnaire, which documents the artwork’s technical profile and establishes the artist’s intent for preservation strategies. These art objects comprise the permanent collection and are subject to preservation techniques, documentation and exhibition by Rhizome.
+
+
+ACQUISITION OF OBJECTS
+The ArtBase acquires art objects by artists submissions, annual commissions and special invitation. Consideration for acceptance into the archive is based on the ArtBase Selection Criteria (see below). Once an art object is accepted and entered in the ArtBase, it will be stored and maintained for as long as possible, unless the artist asks for the art object to be removed or a third party makes a credible claim of copyright infringement.
+Rhizome employs the following criteria to evaluate the potential historical or cultural significance of a particular artwork submission:
+- The work’s aesthetic innovation, conceptual sophistication or political impact.
+- The work’s relevance to the discourses of new media art and contemporary art in general.
+- The work’s provenance, including commissions, exhibitions and collections.
+- The work’s refined use of or reference to digital and Internet culture.
+
+Submission Process
+In order to submit to the ArtBase, Rhizome requires that the artist or rights holder register a User or Member account with Rhizome.org. All art objects accepted to the ArtBase must be submitted by a user or member (who shall be referred to as the artist) through Rhizome’s website (http://rhizome.org/artbase/submit/). 
+During the submission process, the artist creates the publicly viewable entry page by entering the pertinent information about the artwork and determining the metadata associated with the artwork. The Submission page is comprised of empty text fields that require the artist to complete in order to proceed. The artist is required to execute the “Rhizome ArtBase Agreement” and is given the option to apply a Creative Commons license to their artwork.
+
+Once an artwork has been submitted, Rhizome staff reviews the artwork and accepts or rejects the artwork based on the predetermined Rhizome ArtBase Selection Criteria. After the submission process is complete, the artwork will automatically be published on the artist’s profile page, regardless of acceptance to the ArtBase.
+
+Acceptance and Rejection
+The artist will be notified of acceptance via the e-mail address provided on the artist’s profile page. When an art object is accepted, a Rhizome staff member will review the submitted metadata with the artwork and, if necessary, make changes or ask the artist for clarification or additional information. Once all documents and metadata are complete and accurate, the art object will be made available in the ArtBase. An artwork that does not meet the Selection Criteria will not be accepted to the ArtBase. Rhizome anticipates that its curatorial practice will evolve and allows previously rejected artworks to be resubmitted
+
+Execution of ArtBase Agreement and Artist Questionnaire
+In order to submit an artwork to the ArtBase, Rhizome requires that the artist accepts the “Rhizome ArtBase Agreement.” The contract outlines the terms and conditions of submitting an artwork to the ArtBase. The acceptance of this agreement is required for both Linked Objects and Archival Copies.
+
+For an Archival Copies entered in the ArtBase, Rhizome requires the artist to complete the “Artist Questionnaire.” The Questionnaire collects information about the artwork’s technical profile and establishes a preservation strategy to employ for the artwork in the event of technological obsolescence. Rhizome stands behind the artists’ intent for the artwork and will make good faith effort to comply with all requests.
+
+Creative Commons License Option
+Artists have the option to apply Creative Commons licenses to their artwork. These licenses allow other artists and the public to copy, distribute, display, perform and remix the copyrighted material as long as credit is given to the artist. Creative Commons licenses can be tailored to each individual work and determined by the artist during the submission process. If the artist does not wish to apply a Creative Commons license, they may choose to retain “All Rights Reserved” copyright of their work. The artist’s decision for copyright is publicly available when the work is displayed.
+
+Commissions
+Rhizome’s annual Commission Program promotes and supports emerging new media artists. In order to preserve Rhizome commissioned artworks, Rhizome will create an Archival Copy of the commissioned artwork. Once the artist has realized the artwork, s/he must execute the “Rhizome ArtBase Agreement” and complete the“Artist Questionnaire” at the time of submission. A cloned copy of the work must be uploaded to the Rhizome FTP server. The commissioned work cannot be made publicly available in the ArtBase until all documents and metadata are complete and accurate. As part of the prize, all commissioned artists shall receive lifetime membership access to Rhizome.
+
+
+REMOVAL OF OBJECTS
+Rhizome reserves the right to remove art objects from the ArtBase at any time. Reasons for removal include, but are not limited to, copyright infringement, failure to keep artwork live, the artwork is potentially harmful or the artwork is defamatory or derogatory. When an art object is removed from the ArtBase, the artist will be notified by Rhizome staff in an e-mail sent to the address provided in the submission documents or artist profile.
+
+As part of the 2010 Strategic Overhaul of Rhizome’s website and the ArtBase, currently inactive or broken art objects will be removed from public view in the ArtBase. Rhizome staff will make a good faith effort to contact the artists to update the location or fix the error of an inactive artwork. If the artist does not comply or responds within a reasonable period of time or declines to update, the art object will be removed from the ArtBase following the Removal Procedure.
+
+Removal Procedure
+When art object is identified for removal by Rhizome staff, the artist will be notified. Three separate e-mails will be sent to the email address provided in the submission documents or as listed on the artist’s profile. Each e-mail will give a deadline and detail the steps the artist must take to either reactivate the artwork or request for the removal from the ArtBase. If the artist does not respond by the deadline, the art object will be removed from the ArtBase. Once the art object is removed from the archive, the artist will be notified by e-mail. Rhizome assumes no responsibility to search for the artist’s contact information in the event that they no longer maintain the e-mail address on record.
+
+All art objects removed from the ArtBase will be documented (correspondence, metadata etc.) and kept on file at Rhizome. Any artwork removed from the ArtBase may be resubmitted by the artist at any time.
+
+
+DISTRIBUTION & COPYRIGHTS
+Rhizome supports the open exchange of ideas and recognizes that digital materials are copyrightable. In order to protect the copyrights and free expression of artists, Rhizome provides the option to a Creative Commons license. Creative Commons licenses give ability to copy, distribute, display and remix an artwork while retaining the artist’s copyright. While the Creative Commons licenses vary, every license retains copyright by requiring attribution to the copyright holder. Rhizome fully supports Creative Common licenses and respects the artist’s decision concerning copyrights.
+
+Rhizome anticipates the distribution of content uploaded to the ArtBase to third party collections, archival resources and naming authorities, such as ARTstor and the Getty List of Artist Names,  as well as the need to provide an open application programming interface (API) for artists to utilize. By uploading content to the Rhizome website and ArtBase, artists understand and agree to allow Rhizome to distribute images, text and other information to third party affiliates for non-commercial purposes only.
+
+
+CARE OF THE COLLECTION
+Rhizome anticipates that all works in the ArtBase will face technological obsolescence as technologies continue to evolve. As the mission states, preservation is one of the primary objectives of the ArtBase and Rhizome encourages artists to actively participate in the preservation of their works. Preservation strategies are determined by the artist in the Artist’s Intent section of the “Artist Questionnaire.” This document sets forth the artist’s will by outlining the most appropriate preservation strategy and documents the artwork’s detailed technical profile.
+
+Currently, there are four main approaches to preserve art objects in the ArtBase:
+Documentation: Artist or Rhizome created text descriptions, still images, moving images or audio recordings and Artist Questionnaire.
+Migration: Translation of data written in an obsolete format to a currently supported format.
+Emulation: Use of emulators to run obsolete software.
+Reinterpretation: Recreation of the original while keeping the conceptual framework intact.
+
+Rhizome’s limited staff and resources can only support the preservation of Archival Copies by migration, emulation or reinterpretation at this time. In order to better preserve artworks catalogued in the ArtBase, Rhizome intends to create Archival Copies of all Linked Objects in the collection by collecting copies of the artwork and the Artist Questionnaire.
+
+
+RECORDS
+Every artwork in the ArtBase is associated with a set of metadata that provides information to the technical profile, keywords, documentation and administrative data when an artwork is accepted to the ArtBase. Much of the metadata is determined and assigned by the artist through the Submission process and reviewed by Rhizome staff. The Rhizome collections staff will be responsible for ensuring that the metadata is correct before making the art object publicly available in the ArtBase.
+
+The ephemeral nature of new media artworks and technological obsolescence are the two major causes of inactivity in the ArtBase. Rhizome attempts to combat the detrimental effects of obsolescence by creating comprehensive documentation of archival copies in the ArtBase in the Artist Questionnaire. Below are the fundamental steps to capture the essence or the idea of an artwork when the artwork cannot be experienced firsthand.
+- Detailed descriptions of the behaviors and technical properties of each artwork (by the artist, by the Rhizome staff, through artist interviews and the Questionnaire). 
+- Links to commentary, critiques or discussion of the work on Rhizome or other credible websites or publication
+- Multiple screen captures or still images of the work (by either the artist or Rhizome)
+- Audio recordings, if applicable
+- Moving images, if applicable
+
+Documentation will be made at the time of acceptance before the work is made available in the ArtBase. Periodically, documentation may be updated if needed. 
+All data for the ArtBase and Rhizome.org is currently stored by Rackspace Hosting in San Antonio, TX and maintained/overseen/managed by Rhizome’s current Director of Technology. Backups are conducted on a regular basis by the Director of Technology and Rackspace, and are stored both at the New Museum and Rackspace.
+
+
+INVENTORIES
+Regular inventories evaluate the viability of art objects and the accuracy of records in the ArtBase is necessary to combat the threat of technological obsolescence. Regular, scheduled inventories of the ArtBase are necessary for evaluating the integrity of the archive, and ensure that archived artworks are functional, that the records are updated and accurate, and that any preservation risks are discovered. As well, the archive's underlying technologies should be routinely updated to combat technological obsolescence and promote system security. Ongoing maintenance of records will ensure that all documentation is accurate and comprehensive.
+
+Rhizome staff will conduct inventories of art objects in the ArtBase to ensure all links are active, the metadata is consistent and all records are accurate and complete. The Director of Technology is responsible for the automatic and manual checks for inactive links. Rhizome will provide an error reporting system for users and members. Complete inventory of the ArtBase will be conducted every five years. 
+
+
+ACCESS TO THE COLLECTION
+The ArtBase is free and accessible in its basic form to the public on Rhizome’s website (http://rhizome.org/artbase/featured/). Anyone with Internet access can sign up by providing a valid email address and creating a password. There are three types of accounts:
+
+Rhizome Users can browse the majority of Rhizome's content, post to our email lists, and submit projects to the ArtBase and our annual Commissions program. Users simply have to sign up by giving their email address and a password. Users have limited access to the ArtBase in that they are unable to interact with the work (via saving, annotating, and other available tools) and are unable to view a work’s full metadata. 
+Rhizome Members have full access to Rhizome: they can interact with Artworks and have full access to an Artwork’s metadata. Members can also curate exhibitions in the ArtBase, browse our New Media Resources, vote on Commissions Proposals, and receive a 10% discount at the New Museum. Membership costs $25 annually, and goes directly into supporting Rhizome's programs and the efforts of our staff.
+Organizational subscriptions are group memberships to Rhizome that allow members of institutional communities (such as students, faculty or artists) to gain access to all of Rhizome's resources and services without having to pay for membership individually. These Subscriptions allow staff, faculty and students to gain access to all of Rhizome's features and services for free.
